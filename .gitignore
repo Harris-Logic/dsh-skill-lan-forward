@@ -1,0 +1,7 @@
+# runtime state of the scripts
+.run/
+*.log
+
+node_modules/
+.DS_Store
+Thumbs.db
