@@ -5,3 +5,26 @@
 node_modules/
 .DS_Store
 Thumbs.db
+
+# >>> ghsync (managed) >>>
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+dist/
+build/
+out/
+target/
+.next/
+.nuxt/
+coverage/
+.cache/
+.idea/
+.vscode/settings.json
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+# <<< ghsync (managed) <<<
